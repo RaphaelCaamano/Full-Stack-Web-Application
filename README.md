@@ -1,5 +1,5 @@
 # Full Stack Web Application: 
-A full stack web application developed using my-next-app, intended for the memorization of things in due time, with the application optimizing the loading process through efficient deployment of both the client and server sides.
+A full stack web application developed with my-next-app, aiming to provide the most efficient and effective way for users to memorize information. The application has the advantage of integrating the client and server-side components in a seamless manner, with optimization strategies that guarantee the application is loaded quickly and reliably. It also has the ability to deploy the client server and public server in an intelligent way, providing the best experience for the user, irrespective of the device used to access the application. This is a full-stack web application that combines the best in modern front-end development with robust back-end functionalities to provide an effective way to memorize information over a given period of time.
 
 # Information:
 The Full Stack Web Application is primarily programmed in:
