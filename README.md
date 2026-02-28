@@ -1,2 +1,2 @@
-# Full Stack Web Application: 
+# Project Overview: 
 A full stack web application developed with my-next-app to provide the most effective way for users to memorize information with the advantage of integrating the client and server-side components in a seamless manner, with optimization strategies that guarantee the application is loaded quickly and reliably with the ability to deploy the client server and public server with some irrespective of the device used to access the application.
