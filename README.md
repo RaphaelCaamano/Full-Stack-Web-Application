@@ -8,7 +8,3 @@ The Full Stack Web Application is primarily programmed in:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="38" height="38"/> </a>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45"/> </a> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS Logo" width="45" height="45"/> </a>
-
-
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons//CSS3_logo_and_wordmark.svg" alt="CSS Logo" width="45" height="45"/> </a>
